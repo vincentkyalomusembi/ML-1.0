@@ -1,0 +1,8 @@
+ipykernel
+numpy 
+pandas
+matplotlib
+# seaborn
+# python -m venv/env venv
+# source venv/bin/activate-linux
+# pip install -r requirements.txt
