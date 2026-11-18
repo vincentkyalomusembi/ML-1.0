@@ -3,6 +3,7 @@ numpy
 pandas
 matplotlib
 seaborn
+scikit-learn
 #steps
 # python -m venv venv
 # source venv/bin/activate-linux
